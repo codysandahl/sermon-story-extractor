@@ -5,17 +5,17 @@ Extracts bolded text from sermons to help pastors determine which stories they h
 
 ## Requirements
 * Python 3.6 or greater
-* pip3 install requirements.txt
+* pip3 install -r requirements.txt
 
 ## Folder Structure
 Assumes this Python file resides in a root directory, and sermons are stored in their own folders.
 * Date for the sermon should be the first part of the folder name.
 * Sermon should be called "Sermon.docx".
 
-EXAMPLE:
-    ./Sermon+Story+Extractor.py
-    ./2019-10-27/Sermon.docx
-    ./2019-10-20/Sermon.docx
+EXAMPLE:  
+    ./Sermon+Story+Extractor.py  
+    ./2019-10-27/Sermon.docx  
+    ./2019-10-20/Sermon.docx  
 
 ## Usage
 On Linux...
