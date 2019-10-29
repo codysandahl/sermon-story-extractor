@@ -4,8 +4,8 @@ Extracts bolded text from sermons to help pastors determine which stories they h
 * Extracted text is stored in a text file "sermon_stories.txt" in the same root directory as this Python file
 
 ## Requirements
-Python 3.6 or greater
-pip3 install requirements.txt
+* Python 3.6 or greater
+* pip3 install requirements.txt
 
 ## Folder Structure
 Assumes this Python file resides in a root directory, and sermons are stored in their own folders.
